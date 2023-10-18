@@ -1,16 +1,4 @@
-"""
-Title: Child Benefit Payments Noncompliance Prediction: Model Training Code.
-Author: Dominic McKean
-Date: 24th Nov 2022
-Email: dominic.mckean@engineering.digital.dwp.gov.uk
 
-This project is about predicting future noncompliance in child benefit cases.
-This script is the code for training various machine learning models on previous compliance 
-and noncompliant cases. 
-Some parameters within the code can be adjusted such as SMOTE for re-balancing data, 
-the amount of data used for training/testing,  
-Further details can be found in the readme.
-"""
 
 ## Training data file name
 training_data = 'flattened_data_v2'
